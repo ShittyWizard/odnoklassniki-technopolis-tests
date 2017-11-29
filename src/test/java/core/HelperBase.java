@@ -1,4 +1,4 @@
-package core;
+package java.core;
 
 import org.openqa.selenium.*;
 

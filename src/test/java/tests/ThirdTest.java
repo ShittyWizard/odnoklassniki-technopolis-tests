@@ -1,10 +1,10 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class FirstTest {
+public class ThirdTest {
 
     @Test
-    public void test() {
+    public void testEasy(){
         Assert.assertEquals(1, 1);
     }
 }

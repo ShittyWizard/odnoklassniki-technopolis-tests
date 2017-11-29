@@ -1,10 +1,11 @@
-package core;
+package java.core;
 
-import model.TestBot;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class LoginMainPage extends HelperBase{
+import java.model.TestBot;
+
+public class LoginMainPage extends HelperBase {
 
     public LoginMainPage(WebDriver driver) {
         super(driver);

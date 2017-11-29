@@ -1,4 +1,4 @@
-package model;
+package java.model;
 
 public class TestBot {
     private final String login;
